@@ -28,7 +28,7 @@ $js_content = '';	//	additional javascript content (goes below footer)
 $body_class = '';	//	additional classes applied to body
 
 $inchesPerFoot = 12;	//	used in height inputs
-$castListIsSecret = true;
+$castListIsSecret = false;
 $campRegistrationFee = 195;
 $campRegistrationFeeSecondary = 100;
 // $campSeason = 'summer';
